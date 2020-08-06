@@ -1,5 +1,5 @@
 # Movi.es 
-Website Design of a Movie Video Platform
+Website Design of a Movie Video Platform (Css Grid Layout/Responsive Design)
 
  ![Screenshot](Screenshot1.png) 
  
